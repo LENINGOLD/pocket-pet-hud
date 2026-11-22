@@ -7,11 +7,6 @@
       "bytes": 24900
     },
     {
-      "path": "OFL.txt",
-      "sha256": "60dcc4176166a9f504c60725c8c93017dfdc56e52cd9ea7e10e70dcd13b1c57f",
-      "bytes": 4723
-    },
-    {
       "path": "locales/ru.json",
       "sha256": "8b77b2af64dde7b3f82532ad5f1daa843e13c36affb20121736f97420986f47f",
       "bytes": 6656
@@ -23,48 +18,43 @@
     },
     {
       "path": "hud/bowl-watercolor.webp",
-      "sha256": "0560318fb3fe3801787b42b058110e7f3fa38c601bdd750a27e2bf42559879da",
-      "bytes": 177174
+      "sha256": "5a166674fcb687235b2ffcbf92eaf6c88298a1711b372a1803efa87530d5cbe0",
+      "bytes": 11592
     },
     {
       "path": "hud/clean-paw.webp",
-      "sha256": "91938e522f49e8434f7a735c28598b7a96b8444b7cd3e85afb743820ea529779",
-      "bytes": 16738
+      "sha256": "2e1ae7873aaaf48e1f4c09c980eb077d341215e74107ba3813551521fcc436d0",
+      "bytes": 13254
     },
     {
       "path": "hud/heart-watercolor.webp",
-      "sha256": "bd9ad51120f0df2aa73837690dc1705dd4684b7ed4c3f715ae405db47d470b43",
-      "bytes": 42008
+      "sha256": "3bd4b915acfd67b8be3ae8c154d2688e55ec5bc04692229e1e63270f3b3d72dc",
+      "bytes": 9796
     },
     {
       "path": "hud/mood-sad-tears.webp",
-      "sha256": "8c79dd5d0c2160d5b2ca9b5058ada2bddb8b2cd0b24694fad77944c720c6e704",
-      "bytes": 146404
+      "sha256": "62d0423ca8a3f0e6618fa572d5f611000a0e35408288fd16797d28b6c4b69790",
+      "bytes": 10864
     },
     {
       "path": "hud/mood-ok-watercolor.webp",
-      "sha256": "f2495727a4bedc1746d3a5d99ad40885bf1c9a865287be2b04a363a0a9990af5",
-      "bytes": 45500
+      "sha256": "2d25d82103130262fed684e4a67b5aa07582e135ee9d207e2ab1c8f23c426874",
+      "bytes": 11450
     },
     {
       "path": "hud/mood-content-watercolor.webp",
-      "sha256": "4c6e44d9b09006b82b00c5c45348d5342c890d63b950567e3af943d54c1cc557",
-      "bytes": 45456
+      "sha256": "1c561dffe14303e3362ff7cf3ee81a1587bca33cd0140accf29df2c2d38bd9f0",
+      "bytes": 11348
     },
     {
       "path": "hud/mood-happy-watercolor.webp",
-      "sha256": "7b8bad463169818a767235aefc8c4a33933ae75f9de775d259e64f1ac1690f11",
-      "bytes": 46980
+      "sha256": "22651825e234b9f2e5ef97d292857a07536636df409a84786d931f4c48148a71",
+      "bytes": 10706
     },
     {
       "path": "hud/paw-watercolor.webp",
-      "sha256": "732e176675a9afb215aecb574baa5a8b1834a2cd2620f545370baeebb957d232",
-      "bytes": 252602
-    },
-    {
-      "path": "hud/Comfortaa-VariableFont_wght.ttf",
-      "sha256": "e4012e720b6d0f74b435e2aeeb6ea8bd301882d8884f07ea804949fb53e9f2b7",
-      "bytes": 203916
+      "sha256": "6a378561566b91039be5f74f685b7da22fa338e683084401154382224651f75e",
+      "bytes": 12606
     }
   ]
 }
