@@ -1,0 +1,70 @@
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": "overlay.py",
+      "sha256": "ad2bb37b6b21ad6891b1c95137b475b087ad38e44d9cc6f0c6b1f3e1a67f1d33",
+      "bytes": 24900
+    },
+    {
+      "path": "OFL.txt",
+      "sha256": "60dcc4176166a9f504c60725c8c93017dfdc56e52cd9ea7e10e70dcd13b1c57f",
+      "bytes": 4723
+    },
+    {
+      "path": "locales/ru.json",
+      "sha256": "8b77b2af64dde7b3f82532ad5f1daa843e13c36affb20121736f97420986f47f",
+      "bytes": 6656
+    },
+    {
+      "path": "locales/en.json",
+      "sha256": "2ef1d5b9818e89988ce9b1e9d4c6e3338441e07dca13ce9abb3f2a9b9fd5dfd6",
+      "bytes": 4659
+    },
+    {
+      "path": "hud/bowl-watercolor.webp",
+      "sha256": "0560318fb3fe3801787b42b058110e7f3fa38c601bdd750a27e2bf42559879da",
+      "bytes": 177174
+    },
+    {
+      "path": "hud/clean-paw.webp",
+      "sha256": "91938e522f49e8434f7a735c28598b7a96b8444b7cd3e85afb743820ea529779",
+      "bytes": 16738
+    },
+    {
+      "path": "hud/heart-watercolor.webp",
+      "sha256": "bd9ad51120f0df2aa73837690dc1705dd4684b7ed4c3f715ae405db47d470b43",
+      "bytes": 42008
+    },
+    {
+      "path": "hud/mood-sad-tears.webp",
+      "sha256": "8c79dd5d0c2160d5b2ca9b5058ada2bddb8b2cd0b24694fad77944c720c6e704",
+      "bytes": 146404
+    },
+    {
+      "path": "hud/mood-ok-watercolor.webp",
+      "sha256": "f2495727a4bedc1746d3a5d99ad40885bf1c9a865287be2b04a363a0a9990af5",
+      "bytes": 45500
+    },
+    {
+      "path": "hud/mood-content-watercolor.webp",
+      "sha256": "4c6e44d9b09006b82b00c5c45348d5342c890d63b950567e3af943d54c1cc557",
+      "bytes": 45456
+    },
+    {
+      "path": "hud/mood-happy-watercolor.webp",
+      "sha256": "7b8bad463169818a767235aefc8c4a33933ae75f9de775d259e64f1ac1690f11",
+      "bytes": 46980
+    },
+    {
+      "path": "hud/paw-watercolor.webp",
+      "sha256": "732e176675a9afb215aecb574baa5a8b1834a2cd2620f545370baeebb957d232",
+      "bytes": 252602
+    },
+    {
+      "path": "hud/Comfortaa-VariableFont_wght.ttf",
+      "sha256": "e4012e720b6d0f74b435e2aeeb6ea8bd301882d8884f07ea804949fb53e9f2b7",
+      "bytes": 203916
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "lang": "en",
+  "logo": "Pocket Pet",
+  "title": "your pocket pet",
+  "stages": {
+    "egg": "egg",
+    "baby": "baby",
+    "teen": "teen",
+    "adult": "adult"
+  },
+  "age": {
+    "days_one": "{n} day",
+    "days_other": "{n} days",
+    "days_short": "{n} days",
+    "months_one": "{n} mo.",
+    "months_other": "{n} mo.",
+    "months_short": "{n} mo."
+  },
+  "phrase_fallback": "I'm right here",
+  "phrase_pool": {
+    "happy": [
+      "I love being with you",
+      "So glad you're here",
+      "I love you so much",
+      "Better together",
+      "I'm shining today",
+      "You make me so warm",
+      "You're my favorite day",
+      "My heart is bouncing",
+      "So good that you exist",
+      "Tight hug for you",
+      "I'm glowing right now",
+      "You're my sunshine",
+      "Happy you're beside me",
+      "I feel calm with you",
+      "I want this always",
+      "You brighten the day",
+      "I love our little time",
+      "A party in my chest",
+      "So cozy next to you",
+      "So happy to see you",
+      "Today I feel so lucky"
+    ],
+    "ok": [
+      "I'm right here",
+      "Want to play?",
+      "I like this with you",
+      "All is well",
+      "Good that you're here",
+      "We can just sit",
+      "I'm thinking of you",
+      "A quiet, easy day",
+      "I feel calm beside you",
+      "You came at a good time",
+      "Let's stay together",
+      "Nice to hear you",
+      "I'm here with you",
+      "Quiet and good",
+      "I'm feeling better",
+      "Thanks for being here",
+      "It's good, just us two",
+      "I'm in my spot",
+      "Can I have a hug?",
+      "Just glad you're here"
+    ],
+    "low": [
+      "Come look in again",
+      "I'm a little sad",
+      "Sit with me",
+      "Hug me, will you?",
+      "It's quiet without you",
+      "A little closer?",
+      "It's dull without you",
+      "My mood is grey",
+      "Let's play a little",
+      "I could use some warmth",
+      "Stay a little longer",
+      "I'm quiet today",
+      "Come a bit closer",
+      "I want a little love",
+      "Don't go far",
+      "I miss you a little",
+      "You would make it brighter",
+      "Scoot a bit closer",
+      "My mood dipped a bit",
+      "Stay with me",
+      "I missed you"
+    ],
+    "sad": [
+      "I really miss you",
+      "Please stay a while",
+      "I feel lonely",
+      "Please hug me",
+      "Empty without you",
+      "Stay a little, okay?",
+      "This is hard right now",
+      "It got so quiet",
+      "Can I have a cuddle?",
+      "Come see me",
+      "I'm sad without you",
+      "Stay with me a bit",
+      "I want your warmth",
+      "My heart wants a hug",
+      "Please don't go",
+      "I feel bad without you",
+      "Let's just be quiet",
+      "I'm here, waiting",
+      "Empty without your hugs",
+      "I need your care",
+      "I missed you a lot",
+      "I'm sad on my own"
+    ]
+  },
+  "menu": {
+    "egg": {
+      "photo": "📸 photo",
+      "warm": "🔥 warm",
+      "wipe": "🧽 wipe",
+      "talk": "💬 talk",
+      "status": "📊 status"
+    },
+    "hatched": {
+      "feed": "🍽 feed",
+      "wash": "🛁 wash",
+      "play": "🎾 play",
+      "pet": "🤗 pet",
+      "photo": "📸 photo",
+      "status": "📊 status"
+    }
+  },
+  "menu_button": "📋 menu",
+  "menu_button_value": "menu",
+  "photo_words": [
+    "photo",
+    "picture",
+    "pic"
+  ],
+  "menu_words": [
+    "menu"
+  ],
+  "growth_line": "I grew up!",
+  "gender": {
+    "ask": "Boy, girl, or surprise?",
+    "boy": "boy",
+    "girl": "girl",
+    "surprise": "surprise",
+    "boy_reveal": "It's a boy!",
+    "girl_reveal": "It's a girl!",
+    "candle": "candle the egg"
+  },
+  "accessories": {
+    "examples": [
+      "bell",
+      "bow",
+      "scarf",
+      "heart collar",
+      "flower"
+    ],
+    "none": "nothing"
+  },
+  "sleep": "put to bed",
+  "low_hints": {
+    "food": "I'm hungry",
+    "clean": "I'm dirty",
+    "mood": "I'm sad",
+    "energy": "I'm sleepy"
+  },
+  "families": {
+    "fluffy": "Fluffy",
+    "feathered": "Feathered",
+    "shelled": "Shelled",
+    "scaly": "Scaly"
+  },
+  "species": {
+    "kitten": "kitten",
+    "puppy": "puppy",
+    "fox_cub": "fox cub",
+    "tiger_cub": "tiger cub",
+    "bear_cub": "bear cub",
+    "red_panda_cub": "red panda cub",
+    "moon_bunny": "moon bunny",
+    "duckling": "duckling",
+    "owlet": "owlet",
+    "puffin_chick": "puffin chick",
+    "firebird_chick": "firebird chick",
+    "turtle": "turtle",
+    "armadillo": "baby armadillo",
+    "garden_turtle": "garden turtle",
+    "gecko": "gecko",
+    "dragonet": "little dragon",
+    "dino": "little dinosaur",
+    "chameleon": "baby chameleon",
+    "cloud_dragon": "cloud dragon"
+  }
+}
